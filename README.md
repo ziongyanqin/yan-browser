@@ -1,12 +1,14 @@
 # 雁浏览器（Yan Browser）手机版
 
-雁浏览器 Android 版官方发布仓库。安装包仅约 0.5 MB，轻量小巧。
+雁浏览器 Android 版官方发布仓库。安装包仅约 541 KB，轻量小巧。
+
+**官方网站：https://xyqapp.github.io**
 
 ## 下载安装
 
-- 最新版本：**V1.4.00.0**（2026-11-22 发布）
-- [直接下载 APK](https://github.com/ziongyanqin/yan-browser/releases/download/v1.4.00.0/YanBrowser_V1.4.00.0.apk)
-- [查看发布页与全部版本](https://github.com/ziongyanqin/yan-browser/releases)
+- 最新版本：**V1.4.0.0.111 SP1**（2026-11-29 发布）
+- [直接下载 APK](https://github.com/xyqapp/yan-browser/releases/download/v1.4.0.0.111/YanBrowser_V1.4.0.0.111_SP1.apk)
+- [查看发布页与全部版本](https://github.com/xyqapp/yan-browser/releases)
 
 安装步骤：
 
@@ -14,11 +16,25 @@
 2. 打开文件，按提示允许“安装未知来源应用”
 3. 安装完成即可使用
 
+## 本次更新（V1.4.0.0.111 SP1）
+
+- 主页设置 UI 大改
+- 新增搜索页
+- 完善资源嗅探功能，支持下载视频
+- 新增扫一扫解析
+- 支持自定义主页壁纸
+- 支持修改语言
+- 优化包体大小
+- 支持语音输入
+- 增加部分动画与圆角
+- 修复大量 bug，提升稳定性
+- 修复部分安全漏洞
+
 ## 版本信息
 
-- 当前版本：V1.4.00.0
-- 发布日期：2026-11-22
-- 文件大小：约 505 KB
+- 当前版本：V1.4.0.0.111 SP1
+- 发布日期：2026-11-29
+- 文件大小：约 541 KB
 - 支持平台：Android
 
 ## 关于
